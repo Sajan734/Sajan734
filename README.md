@@ -1,8 +1,8 @@
 # Hey, I'm Sajan!
 ### Hi! My name is **Sajan Paventhan**.
 
- - Proficient in HTML, CSS, and JavaScript
- - Currently learning Python
+ - Proficient in HTML, CSS, JavaScript, and Python
+ - Currently learning about Data Structures and Algorithms
 
 
 ## Tools and Languages
