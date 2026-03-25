@@ -1,11 +1,25 @@
-# Hey, I'm Sajan!
-### Hi! My name is **Sajan Paventhan**.
+# Hi, I'm Sajan 👋
 
- - Proficient in HTML, CSS, JavaScript, and Python
- - Currently learning about Data Structures and Algorithms
+**Computer Engineering @ University of Waterloo**
 
+I build ML pipelines, full-stack platforms, and embedded firmware. Hackathon builder at heart.
 
-## Tools and Languages
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="25" height="25">  <img src="https://iconape.com/wp-content/files/im/353223/svg/html5-without-wordmark-color.svg" width="25" height="25">  <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="25" height="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="25" height="25">
+## 🛠 Tech Stack
+```
+Python · JavaScript/TypeScript · C++ · SQL
+FastAPI · Flask · Next.js · React · Node.js · MongoDB · SQLite
+scikit-learn · XGBoost · LangChain · OpenAI · Google Gemini · Pandas · NumPy
+ESP32 · Bare-metal C++ · WebSockets · ADC/GPIO/Interrupts
+Git · Linux · Docker · GCP · Firebase
+```
 
+## 🎯 Goals
 
+- Seeking **Spring 2026 Co-op** in software engineering, AI/ML, or full-stack development
+- Exploring how ML and LLMs can be embedded into production systems that solve real problems
+- Always looking to build with new people — open to hackathon teams and side projects
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajan-paventhan/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:spaventh@uwaterloo.ca)
