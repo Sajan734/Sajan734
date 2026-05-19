@@ -15,7 +15,7 @@ Git · Linux · Docker · GCP · Firebase
 
 ## Goals
 
-- Seeking **Spring 2026 Co-op** in software engineering, AI/ML, or full-stack development
+- Seeking **Winter 2027 Co-op** in software engineering, AI/ML, or full-stack development
 - Exploring how ML and LLMs can be embedded into production systems that solve real problems
 - Always looking to build with new people — open to hackathon teams and side projects
 
